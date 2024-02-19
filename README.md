@@ -1,4 +1,7 @@
-Change Text Gredient:
+
+====================
+Change Text Gradient:
+====================
 .CLASS_NAME {
     background: linear-gradient(to right, #f12711, #f5af19);
     background-clip: text;
