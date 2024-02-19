@@ -9,7 +9,11 @@ Change Text Gredient:
 
 
 
-/* variables */
+/*
+======== 
+variables 
+========
+*/
 :root {
     --mainBlack: #222;
     --mainWhite: #fff;
